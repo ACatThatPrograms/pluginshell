@@ -1,0 +1,17 @@
+{
+  "name": "InformMe",
+  "description": "Adds info option to admin settings menu",
+  "keywords": ["wordpress", "plugin", "info"],
+  "homepage": "https://roots.io",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Adam G.",
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
